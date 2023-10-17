@@ -4,7 +4,4 @@ Create Virtual Private Cloud in AWS with Terraform module
 
 
 
-![aws_subnet](https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/74c7f868-dc72-47bc-ad63-0c4b45db6419 | width = 400)
-
-
-<img src= "https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/74c7f868-dc72-47bc-ad63-0c4b45db6419" width = "200"/>    
+<img src= "https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/74c7f868-dc72-47bc-ad63-0c4b45db6419" width = "700"/>    
