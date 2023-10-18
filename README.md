@@ -3,9 +3,8 @@
 Create Virtual Private Cloud in AWS with Terraform module.
 
 **This pic details clearly about the VPC and subnet are being used in this project
-![aws_subnet](https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/65423aaa-07fd-47e4-a26b-dce699a151f5)
+![aws_subnet](https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/65423aaa-07fd-47e4-a26b-dce699a151f5 | width = "700")
 
-<img src= "https://github.com/Thanhlam43k4/Terraform-config-vpc-aws/assets/122345050/74c7f868-dc72-47bc-ad63-0c4b45db6419" width = "700"/>  
 
 
 Steps to create Basic VPC in Amazon Web service use Terraform. 
