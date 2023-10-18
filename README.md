@@ -25,4 +25,28 @@ Steps to create Basic VPC in Amazon Web service use Terraform.
 
     - 2 route_table: To route from public subnet to aws_internet_gateway.
 
-    
+**Step to configure terraform file to your AWS account.
+
+Step1: Clone this repository.
+
+    git clone https://github.com/Thanhlam43k4/Terraform-config-vpc-aws.git
+
+Step2: Install Terraform to your Local Machine 
+
+    https://developer.hashicorp.com/terraform/downloads
+
+Step3: Set up /.aws/credentials with your IAM account on AWS.
+
+Step4: Init terraform
+
+        terraform init
+
+Step5: Plan terraform to view resources are going to be created in AWS.
+
+        terraform plan
+
+Step6: Apply to create resource Virtual Private Account.
+
+        terraform apply
+
+Finish this project you can see your VPC and Subnet, Route  table, Internet Gateway in your AWS account!!!!!
